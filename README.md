@@ -5,12 +5,12 @@
 
 * 🌍  I'm based in Fort Worth, TX, USA
 * 🖥️  See my [Portfolio](https://jonathanbola.netlify.app)
-* 🧠  Currently learning TypeScript | Angular | Express & MongoDB
+* 🧠  I build Fully functional Web Apps
 * 🤝  I'm open to collaborating on interesting projects as a developer
 
 ## Skills
 
-HTML5   CSS3   JavaScript   React   Bootstrap   Ruby on Rails SQL  Python 
+HTML5 CSS3 JavaScript|NodeJS|Express Java Python  React Tailwind Bootstrap SQL MongoDB
 
 Socials
 
