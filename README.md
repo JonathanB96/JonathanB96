@@ -4,7 +4,7 @@
 ## I am a Full Stack developer.
 
 * 🌍  I'm based in Fort Worth, TX, USA
-* 🖥️  See my [Portfolio]([https://jonbola.netlify.app](https://jonathanbola.vercel.app/)
+* 🖥️  See my [Portfolio](https://jonathanbola.vercel.app/)
 * 🧠  I build Fully functional Web Apps
 * 🤝  I'm open to collaborating on interesting projects as a developer
 
